@@ -1,0 +1,19 @@
+{
+  "name": "unidates",
+  "version": "1.0.0",
+  "description": "The front end for the soon to be hit dating app unidates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/caterpaula/hackmanc2018.git"
+  },
+  "author": "UNiDAYS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caterpaula/hackmanc2018/issues"
+  },
+  "homepage": "https://github.com/caterpaula/hackmanc2018#readme"
+}
